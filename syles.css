@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+@media(min-width: 1px){
+  html {
+    font-weight: normal;
+    background-color: #656565;
+    color: white;
+  }
+}
+
+.img {
+  max-width: 300px;
+  min-width: 100px;
+  width: 150px;
+}
